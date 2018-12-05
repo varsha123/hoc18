@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 <h2>Bonus Question</h2>
 
-<h2>4.</h2> Write a Program with two functions to encode and decode to and from Base64 respectively. Do not use in built functions for base64 directly. Read more about base64 here.
+<h2>4.</h2> Write a Program with two functions to encode and decode to and from Base64 respectively. Do not use in built functions for base64 directly. Read more about base64 <a href="https://en.wikipedia.org/wiki/Base64">here</a>.
 
 
 __________________________________________________________________________________________
