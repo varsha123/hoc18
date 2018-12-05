@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+</head>
+
+<body>
+    <script>
+        primeNumber(1, 20);
+        function primeNumber(startNum, endNum) {
+            var i = startNum;
+            if (i <= endNum) {
+                if(i==2 || i==3)
+                {
+                    console.log(i);
+                }
+                else {
+                if ( i % 2 != 0 ) {
+                    if ( i % 3 != 0 ) {
+                    console.log(i);
+                    }
+                }  
+                }             
+                i++;
+                primeNumber(i,endNum);
+            }
+        }
+    </script>
+</body>
+
+</html>
