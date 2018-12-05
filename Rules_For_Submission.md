@@ -10,5 +10,5 @@
 
 <h3>4.</h3> At the end of one hour, you'll be given 2 minutes to push your code solution on the github repository.
         
-        The time of you push will be recorded in Github, and if it exceeds 7:02 PM, your solution will not be considered for evaluation.
+        The time of your push will be recorded in Github, and if it exceeds 7:05 PM, your solution will not be considered for evaluation.
         
