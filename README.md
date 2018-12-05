@@ -1,4 +1,6 @@
-# hoc18
+<img src="https://hourofcode.com/images/social-media/jeff_bezos.png" alt="Participate in the Hour Of Code">
+
+# Hour of Code 2018 
 
 <h3>Solve the following questions:</h3>
 
